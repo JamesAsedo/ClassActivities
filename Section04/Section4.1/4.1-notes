@@ -1,0 +1,3 @@
+for DOM
+ # represents id ex. document.querySelector(#my-id)
+  "." use for class ex. document.querySelectorAll(.my-class)
